@@ -1,0 +1,19 @@
+dn: ou=ASIR,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: organizationalUnit
+objectClass: top
+ou: ASIR
+
+dn: ou=DAW,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: organizationalUnit
+objectClass: top
+ou: DAW
+
+dn: ou=Alumnos,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: organizationalUnit
+objectClass:top
+ou: Alumnos
+
+dn: ou=Profesores,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: organizationalUnit
+objectClass:top
+ou: Profesores

@@ -1,0 +1,15 @@
+dn: uid=profesor1,ou=profesores,dc=juanjosegil,dc=2asir,dc=edu
+objectClass: inetOrgPerson
+ObjectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: top
+cn: profes1
+sn: juanjosegil
+uid: profesor1
+gidNumber: 20041
+uidNumber: 10011
+homeDirectory: /home/profe1
+loginShell: /bin/bash
+userPassword: {SSHA}qmvR8eO4v8W0abaXhlmmKDHfId7lP5j6

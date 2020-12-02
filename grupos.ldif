@@ -1,0 +1,47 @@
+dn: cn=1ASIR,ou=ASIR,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: 1ASIR
+gidNumber: 20011
+
+dn: cn=2ASIR,ou=ASIR,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: 2ASIR
+gidNumber: 20012
+
+dn: cn=1DAW,ou=DAW,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: 1DAW
+gidNumber: 20021
+
+dn: cn=2DAW,ou=DAW,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: 2DAW
+gidNumber: 20022
+
+dn: cn=Primero,ou=Alumnos,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: Primero
+gidNumber: 20031
+
+dn: cn=Segundo,ou=Alumnos,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: Segundo
+gidNumber: 20032
+
+dn: cn=Profes1,ou=Profesores,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: Profes1
+gidNumber: 20041
+
+dn: cn=Profes2,ou=Profesores,dc=juanjosegil,dc=2ASIR,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: Profes2
+gidNumber: 20042
