@@ -1,0 +1,35 @@
+dn: cn=grupo1ASIR,ou=1ASIR,ou=ASIR,dc=iesgrancapitan,dc=org
+objectClass: posixGroup
+objectClass: top
+cn: grupo1ASIR
+gidNumber: 10001
+
+dn: cn=grupo2ASIR,ou=2ASIR,ou=ASIR,dc=iesgrancapitan,dc=org
+objectClass: posixGroup
+objectClass: top
+cn: grupo2ASIR
+gidNumber: 10002
+
+dn: cn=grupo1DAW,ou=1DAW,ou=DAW,dc=iesgrancapitan,dc=org
+objectClass: posixGroup
+objectClass: top
+cn: grupo1DAW
+gidNumber: 10011
+
+dn: cn=grupo2DAW,ou=2DAW,ou=DAW,dc=iesgrancapitan,dc=org
+objectClass: posixGroup
+objectClass: top
+cn: grupo2DAW
+gidNumber: 10012
+
+dn: cn=grupoPROFESORES,ou=PROFESORES,dc=iesgrancapitan,dc=org
+objectClass: posixGroup
+objectClass: top
+cn: grupoPROFESORES
+gidNumber: 10021
+
+dn: cn=grupoALUMNOS,ou=ALUMNOS,dc=iesgrancapitan,dc=org
+objectClass: posixGroup
+objectClass: top
+cn: grupoALUMNOS
+gidNumber: 10022

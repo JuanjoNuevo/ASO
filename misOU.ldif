@@ -1,19 +1,39 @@
-dn: ou=ASIR,dc=juanjosegil,dc=2ASIR,dc=edu
+dn: ou=ASIR,dc=iesgrancapitan,dc=org
 objectClass: organizationalUnit
 objectClass: top
 ou: ASIR
 
-dn: ou=DAW,dc=juanjosegil,dc=2ASIR,dc=edu
+dn: ou=1ASIR,ou=ASIR,dc=iesgrancapitan,dc=org
+objectClass: organizationalUnit
+objectClass: top
+ou: 1ASIR
+
+dn: ou=2ASIR,ou=ASIR,dc=iesgrancapitan,dc=org
+objectClass: organizationalUnit
+objectClass: top
+ou: 2ASIR
+
+dn: ou=DAW,dc=iesgrancapitan,dc=org
 objectClass: organizationalUnit
 objectClass: top
 ou: DAW
 
-dn: ou=Alumnos,dc=juanjosegil,dc=2ASIR,dc=edu
+dn: ou=1DAW,ou=DAW,dc=iesgrancapitan,dc=org
 objectClass: organizationalUnit
-objectClass:top
-ou: Alumnos
+objectClass: top
+ou: 1DAW
 
-dn: ou=Profesores,dc=juanjosegil,dc=2ASIR,dc=edu
+dn: ou=2DAW,ou=DAW,dc=iesgrancapitan,dc=org
 objectClass: organizationalUnit
-objectClass:top
-ou: Profesores
+objectClass: top
+ou: 2DAW
+
+dn: ou=PROFESORES,dc=iesgrancapitan,dc=org
+objectClass: organizationalUnit
+objectClass: top
+ou: PROFESORES
+
+dn: ou=ALUMNOS,dc=iesgrancapitan,dc=org
+objectClass: organizationalUnit
+objectClass: top
+ou: ALUMNOS
